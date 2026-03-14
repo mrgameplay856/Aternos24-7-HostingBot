@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "eidandzed",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "eidandzed",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "zedandeid.aternos.me",
+    "port": 34948,
     "version": "",
     "try-creative": false
   },
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
@@ -47,7 +47,7 @@
     }
   },
   "movement": {
-    "enabled": true,
+    "enabled": false
     "circle-walk": {
       "enabled": true,
       "radius": 4,
